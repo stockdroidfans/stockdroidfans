@@ -19,10 +19,9 @@ Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'i
 
 <!-- BEGIN INTERPRET DOCUMENT -->
 
-<h2 align="center">
-  <img src="https://camo.githubusercontent.com/de4fa40cddcfcb22448cdca8e9dad69d8133ae62964a9c90ffa661afd780b94a/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3332302f6170706c652f3238352f706f6c6963652d6361722d6c696768745f31663661382e706e67" width="20"/>
-  REGOLAMENTO BASE
-</h2>
+<h3 align="center">
+  Regolamento base
+</h3>
 
 | Infrazione | Comporta |
 | ---------- | -------- |
@@ -38,10 +37,9 @@ Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'i
 | Incitamento all'odio, al suicidio o all'autolesionismo | ⛔**ban** |
 | Qualsiasi tipo di contenuti illegali o immorali | ⛔**ban** |
 
-<h2 align="center">
-  <img src="https://camo.githubusercontent.com/de4fa40cddcfcb22448cdca8e9dad69d8133ae62964a9c90ffa661afd780b94a/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3332302f6170706c652f3238352f706f6c6963652d6361722d6c696768745f31663661382e706e67" width="20"/>
-  REGOLAMENTO ESTESO
-</h2>
+<h3 align="center">
+  Regolamento esteso
+</h3>
 
 ### Rispetto per tutti
 insultatevi tutti rissa mazzate eeeee
