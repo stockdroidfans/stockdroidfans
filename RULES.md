@@ -42,4 +42,4 @@ Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'i
 </h3>
 
 ### Rispetto per tutti
-insultatevi tutti rissa mazzate eeeee
+Ogni forma di insulti, incitamenti all'odio, minacce di qualsiasi tipo, discriminazione come omofobia, razzismo o sessismo, **non** sono permesse sotto **nessuna circostanza**, senza eccezioni (tranne la Gianpiertolda 😒). Questo deve essere un luogo accogliente!
