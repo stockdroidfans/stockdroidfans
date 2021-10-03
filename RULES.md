@@ -25,7 +25,7 @@ Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'i
 
 | Infrazione | Comporta |
 | ---------- | -------- |
-| Qualsiasi forma di insulti, minacce, discriminazione contro utenti, comunità o minoranze | ⛔**ban** |
+| [Qualsiasi forma di insulti, minacce, discriminazione contro utenti, comunità o minoranze]() | ⛔**ban** |
 | Divulgazione di informazioni personali di qualsiasi tipo | ⛔**ban** |
 | Flood, spam, promozione o contenuti monetizzati | 🔇**mute** temporaneo |
 | Spam inutili di tag o messaggi privati agli utenti | 🔇**mute** temporaneo |
