@@ -26,7 +26,7 @@ Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'i
 | Infrazione | Comporta |
 | ---------- | -------- |
 | [Qualsiasi forma di insulti, minacce, discriminazione contro utenti, comunità o minoranze](#rispetto-per-tutti) | ⛔**ban** |
-| Divulgazione di informazioni personali di qualsiasi tipo | ⛔**ban** |
+| [Diffusione di informazioni personali di qualsiasi tipo](#doxxing-e-divulgazione-di-informazioni-personali) | ⛔**ban** |
 | Flood, spam, promozione o contenuti monetizzati | 🔇**mute** temporaneo |
 | Spam inutili di tag o messaggi privati agli utenti | 🔇**mute** temporaneo |
 | Truffa, tentativi di truffa o phishing | ❗**kick** |
@@ -42,6 +42,18 @@ Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'i
 </h3>
 
 ### Rispetto per tutti
-Ogni forma di insulti, incitamenti all'odio, minacce di qualsiasi tipo, discriminazione come omofobia, razzismo o sessismo, **non** sono permesse sotto **nessuna circostanza**, senza eccezioni (tranne la Gianpiertolda 😒). Questo deve essere un luogo accogliente!
+Ogni forma di insulti, incitamenti all'odio, minacce di qualsiasi tipo, discriminazione come omofobia, razzismo o sessismo, **non sono permesse** sotto nessuna circostanza, senza eccezioni (tranne la Gianpiertolda). Questo deve essere un luogo accogliente!
+
+### Doxxing e diffusione di informazioni personali
+La diffusione di informazioni personali o sensibili di sé stessi o altri utenti, con l'utilizzo di qualsiasi mezzo, **con o senza consenso**, è completamente **proibita**. In questa regola rientrano anche contenuti multimediali, chat o informazioni private. Questo include anche leak di dati. L'invio di messaggi contenenti informazioni di posizione o contatto saranno automaticamente flaggati dall'**[anticheat](#informazioni-sensibili)** come tentativo di musoposting o doxxing.
+
+### Musoposting
+Per **musoposting** o musopostaggio si intendono l'insieme di attività che comprendono l'invio di **foto** o **video** che rappresentano la **faccia** oppure messaggi vocali con la voce di persone **minori di 15 anni** (per ovvi motivi che non tratteremo in questo regolamento). Questo include anche te stesso.
+
+<h3 align="center">
+  Restrizioni
+</h3>
+
+### Informazioni sensibili
 
 <!-- END INTERDOM -->
