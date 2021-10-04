@@ -26,8 +26,8 @@ Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'i
 | Infrazione | Comporta |
 | ---------- | -------- |
 | [Qualsiasi forma di insulti, minacce, discriminazione contro utenti, comunità o minoranze](#rispetto-per-tutti) | ⛔**ban** |
-| [Diffusione di informazioni personali di qualsiasi tipo](#doxxing-e-divulgazione-di-informazioni-personali) | ⛔**ban** |
-| Flood, spam, promozione o contenuti monetizzati | 🔇**mute** temporaneo |
+| [Diffusione di informazioni personali di qualsiasi tipo](#doxxing-e-diffusione-di-informazioni-personali) | ⛔**ban** |
+| [Flood], spam, promozione o contenuti monetizzati | 🔇**mute** temporaneo |
 | Spam inutili di tag o messaggi privati agli utenti | 🔇**mute** temporaneo |
 | Truffa, tentativi di truffa o phishing | ❗**kick** |
 | Utilizzo di parole inadatte o offensive, come bestemmie o slur | ❗**kick** |
@@ -53,6 +53,9 @@ Per **musoposting** o musopostaggio si intendono l'insieme di attività che comp
 <h3 align="center">
   Restrizioni
 </h3>
+
+### Flood
+Invio ripetuto di messaggi in un breve periodo di tempo. L'algoritmo dell'anticheat determinerà quali messaggi eliminare prima, per evitare di causare problemi con i [falsi positivi](https://t.me/CrisiStockdroid/464).
 
 ### Informazioni sensibili
 
