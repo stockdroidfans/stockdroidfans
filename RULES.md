@@ -17,7 +17,7 @@ Le regole devono essere seguite da **tutti**, con **nessuna eccezione**, nemmeno
 
 Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'intera Community.
 
-<!-- BEGIN INTERPRET DOCUMENT -->
+<!-- BEGIN INTERDOM -->
 
 <h3 align="center">
   Regolamento base
@@ -43,3 +43,5 @@ Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'i
 
 ### Rispetto per tutti
 Ogni forma di insulti, incitamenti all'odio, minacce di qualsiasi tipo, discriminazione come omofobia, razzismo o sessismo, **non** sono permesse sotto **nessuna circostanza**, senza eccezioni (tranne la Gianpiertolda 😒). Questo deve essere un luogo accogliente!
+
+<!-- END INTERDOM -->
