@@ -7,9 +7,11 @@
   REGOLAMENTO DELLA COMMUNITY
 </h2>
 
-<h3 align="center">
+<div id="definitions">
+
+<h2 align="center">
   Definizioni
-</h3>
+</h2>
 
 Questo documento <sup>"regolamento" | "regole"</sup> rappresenta le regole sul comportamento e la condotta degli utenti di **Stockdroid Fans** e **Stockerlato Tech FANS** <sup>"Community" | "Network" | "Fanbase"</sup>.
 
@@ -18,16 +20,15 @@ Le regole devono essere seguite da **tutti**, con **nessuna eccezione**, nemmeno
 Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'intera Community.
 
 <!-- BEGIN INTERDOM -->
+<div id="quick-rules" align="center">
 
-<h3 align="center">
-  Regolamento base
-</h3>
+## Regolamento base
 
 | Infrazione | Comporta |
 | ---------- | -------- |
 | [Qualsiasi forma di insulti, minacce, discriminazione contro utenti, comunità o minoranze](#rispetto-per-tutti) | ⛔**ban** |
 | [Diffusione di informazioni personali di qualsiasi tipo](#doxxing-e-diffusione-di-informazioni-personali) | ⛔**ban** |
-| [Flood], spam, promozione o contenuti monetizzati | 🔇**mute** temporaneo |
+| Flood, spam, promozione o contenuti monetizzati | 🔇**mute** temporaneo |
 | Spam inutili di tag o messaggi privati agli utenti | 🔇**mute** temporaneo |
 | Truffa, tentativi di truffa o phishing | ❗**kick** |
 | Utilizzo di parole inadatte o offensive, come bestemmie o slur | ❗**kick** |
@@ -37,9 +38,13 @@ Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'i
 | Incitamento all'odio, al suicidio o all'autolesionismo | ⛔**ban** |
 | Qualsiasi tipo di contenuti illegali o immorali | ⛔**ban** |
 
-<h3 align="center">
+</div>
+
+<div id="extended-rules">
+
+<h2 align="center">
   Regolamento esteso
-</h3>
+</h2>
 
 ### Rispetto per tutti
 Ogni forma di insulti, incitamenti all'odio, minacce di qualsiasi tipo, discriminazione come omofobia, razzismo o sessismo, **non sono permesse** sotto nessuna circostanza, senza eccezioni (tranne la Gianpiertolda). Questo deve essere un luogo accogliente!
@@ -50,13 +55,31 @@ La diffusione di informazioni personali o sensibili di sé stessi o altri utenti
 ### Musoposting
 Per **musoposting** o musopostaggio si intendono l'insieme di attività che comprendono l'invio di **foto** o **video** che rappresentano la **faccia** oppure messaggi vocali con la voce di persone **minori di 15 anni** (per ovvi motivi che non tratteremo in questo regolamento). Questo include anche te stesso.
 
-<h3 align="center">
-  Restrizioni
-</h3>
+</div>
 
-### Flood
-Invio ripetuto di messaggi in un breve periodo di tempo. L'algoritmo dell'anticheat determinerà quali messaggi eliminare prima, per evitare di causare problemi con i [falsi positivi](https://t.me/CrisiStockdroid/464).
+<div id="restrictions">
+
+<h2 align="center">
+  Restrizioni
+</h2>
 
 ### Informazioni sensibili
+Condividere informazioni personali di te stesso o altri, tra cui (ma non limitato a):
+- **immagini o video muso**
+- **informazioni di contatto**
+- **ubicazioni o indirizzi**
+- **numeri di telefono**
+- **nomi o cognomi** (nel caso in cui non siano resi pubblici dall'utente)
+- **foto personali**
+- **informazioni bancarie**
+- **informazioni di accesso** (per esempio una password)
+- **conversazioni o chat private** (include anche gruppi privati)
+- **account secondari** di cui l'utente non vuole rendere pubblica l'esistenza
 
-<!-- END INTERDOM -->
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvWTOcdWPUKuKI6VQXo8-BqufzFIXlQCMAGJq2ig&s=0" width="40"/>
+#### Ricorda che il doxxing è illegale e Stockdroid Fans preserva il diritto di segnalare eventuali infrazioni di questa regola.
+
+### Flood
+Invio ripetuto di messaggi in un breve periodo di tempo. Il bot determinerà quali messaggi eliminare per primi, per evitare di causare problemi con i [falsi positivi](https://t.me/CrisiStockdroid/464).
+
+### Spam
