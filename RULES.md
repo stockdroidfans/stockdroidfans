@@ -13,13 +13,17 @@
   Definizioni
 </h2>
 
-Questo documento <sup>"regolamento" | "regole"</sup> rappresenta le regole sul comportamento e la condotta degli utenti di **Stockdroid Fans** e **Stockerlato Tech FANS** <sup>"Community" | "Network" | "Fanbase"</sup>.
+Questo documento <sup>"regolamento" | "regole"</sup> rappresenta
+le regole sul comportamento e la condotta degli utenti di
+**Stockdroid Fans** e **Stockerlato Tech FANS**
+<sup>"Community" | "Network" | "Fanbase"</sup>.
 
-Le regole devono essere seguite da **tutti**, con **nessuna eccezione**, nemmeno per i membri dello Staff.
+Le regole devono essere seguite da **tutti**, con **nessuna
+eccezione**, nemmeno per i membri dello Staff.
 
-Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'intera Community.
+Il seguente regolamento è valido fino ad eventuali modifiche e si
+applica all'intera Community.
 
-<!-- BEGIN INTERDOM -->
 <div id="quick-rules" align="center">
 
 ## Regolamento base
@@ -33,7 +37,7 @@ Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'i
 | Truffa, tentativi di truffa o phishing | ❗**kick** |
 | Utilizzo di parole inadatte o offensive, come bestemmie o slur | ❗**kick** |
 | Invio di contenuti ristretti | 🗑️**eliminazione** |
-| Invio di contenuti NSFW o sensibili, come porno o gore | 🔇**mute** permanente |
+| Invio di materiale NSFW, come porno o gore | 🔇**mute** permanente |
 | Qualsiasi forma di pedofilia, pedoporno, MAP e NoMAP | ⛔**ban** |
 | Incitamento all'odio, al suicidio o all'autolesionismo | ⛔**ban** |
 | Qualsiasi tipo di contenuti illegali o immorali | ⛔**ban** |
@@ -47,13 +51,37 @@ Il seguente regolamento è valido fino ad eventuali modifiche e si applica all'i
 </h2>
 
 ### Rispetto per tutti
-Ogni forma di insulti, incitamenti all'odio, minacce di qualsiasi tipo, discriminazione come omofobia, razzismo o sessismo, **non sono permesse** sotto nessuna circostanza, senza eccezioni (tranne la Gianpiertolda). Questo deve essere un luogo accogliente!
+Ogni forma di insulti, incitamenti all'odio, minacce di qualsiasi
+tipo, discriminazione come omofobia, razzismo o sessismo, **non
+sono permesse** sotto nessuna circostanza, senza eccezioni
+(tranne la Gianpiertolda). Questo deve essere un luogo accogliente!
 
 ### Doxxing e diffusione di informazioni personali
-La diffusione di informazioni personali o sensibili di sé stessi o altri utenti, con l'utilizzo di qualsiasi mezzo, **con o senza consenso**, è completamente **proibita**. In questa regola rientrano anche contenuti multimediali, chat o informazioni private. Questo include anche leak di dati. L'invio di messaggi contenenti informazioni di posizione o contatto saranno automaticamente flaggati dall'**[anticheat](#informazioni-sensibili)** come tentativo di musoposting o doxxing.
+La diffusione di informazioni personali o sensibili di sé stessi
+o altri utenti, con l'utilizzo di qualsiasi mezzo, **con o senza
+consenso**, è completamente **proibita**. In questa regola
+rientrano anche contenuti multimediali, chat o informazioni
+private. Questo include anche leak di dati. L'invio di messaggi
+contenenti informazioni di posizione o contatto saranno
+automaticamente flaggati dal bot come tentativo di doxxing.
 
-### Musoposting
-Per **musoposting** o musopostaggio si intendono l'insieme di attività che comprendono l'invio di **foto** o **video** che rappresentano la **faccia** oppure messaggi vocali con la voce di persone **minori di 15 anni** (per ovvi motivi che non tratteremo in questo regolamento). Questo include anche te stesso.
+#### Musoposting
+Per **musoposting** o musopostaggio intendiamo l'invio di **foto**
+o **video** che rappresentano la **faccia** oppure messaggi vocali
+con la voce di persone **minori di 15 anni** (per ovvi motivi che
+non tratteremo in questo regolamento). Questo include anche te stesso.
+
+### Flood, spam o promozioni monetizzate
+Evita il **[flood](#Flood)** e lo **[spam](#Spam)**. Il bot si prenderà
+cura di limitare queste infrazioni, ma generalmente un moderatore umano
+visionerà i link per evitare i falsi positivi. Esiste un limite oltre il
+quale un messaggio è considerato spam, per esempio:
+
+<img src="https://i.imgur.com/yTuwVUe.jpg"/><br/>
+**Non è spam**
+
+<img src="https://i.imgur.com/dEmh0Ok.jpg"/><br/>
+**È spam**
 
 </div>
 
@@ -76,10 +104,16 @@ Condividere informazioni personali di te stesso o altri, tra cui (ma non limitat
 - **conversazioni o chat private** (include anche gruppi privati)
 - **account secondari** di cui l'utente non vuole rendere pubblica l'esistenza
 
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvWTOcdWPUKuKI6VQXo8-BqufzFIXlQCMAGJq2ig&s=0" width="40"/>
-#### Ricorda che il doxxing è illegale e Stockdroid Fans preserva il diritto di segnalare eventuali infrazioni di questa regola.
+#### <img src="https://img.icons8.com/fluent/28/error.png"/><br/>
+**Ricorda che il doxxing è illegale e Stockdroid Fans si preserva il diritto di segnalare eventuali infrazioni di questa regola.**
 
 ### Flood
-Invio ripetuto di messaggi in un breve periodo di tempo. Il bot determinerà quali messaggi eliminare per primi, per evitare di causare problemi con i [falsi positivi](https://t.me/CrisiStockdroid/464).
+L'invio ripetuto di tanti messaggi in poco tempo è da evitare e il
+bot pulirà automaticamente la chat se troppi messaggi vengono
+inviati. Questo include lo storming o l'abuso dei nostri server.
 
 ### Spam
+Lo spam e la pubblicità non sono permessi e i link monetizzati o
+flaggati come spam saranno automaticamente eliminati dal bot.
+Questo include la promozione attiva di chat, server, canali,
+link [joinchat](https://t.me/joinchat/).
