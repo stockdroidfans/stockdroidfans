@@ -69,10 +69,10 @@ cura di limitare queste infrazioni, ma generalmente un moderatore umano
 visionerà i link per evitare i falsi positivi. Esiste un limite oltre il
 quale un messaggio è considerato spam, per esempio:
 
-<img src="https://i.imgur.com/yTuwVUe.jpg"/><br/>
+<img src="https://i.imgur.com/yTuwVUe.jpg" width="40%"/><br/>
 **Non è spam**
 
-<img src="https://i.imgur.com/dEmh0Ok.jpg"/><br/>
+<img src="https://i.imgur.com/dEmh0Ok.jpg" width="40%"/><br/>
 **È spam**
 
 </div>
@@ -92,7 +92,7 @@ Condividere informazioni personali di te stesso o altri, tra cui (ma non limitat
 - **conversazioni o chat private** (include anche gruppi privati)
 - **account secondari** di cui l'utente non vuole rendere pubblica l'esistenza
 
-#### <img src="https://img.icons8.com/fluent/28/error.png"/><br/>
+#### <img src="https://img.icons8.com/fluent/28/general-warning-sign.png"/><br/>
 **Ricorda che il doxxing è illegale e Stockdroid Fans si preserva il diritto di segnalare eventuali infrazioni di questa regola.**
 
 ### Flood
