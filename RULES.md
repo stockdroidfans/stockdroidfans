@@ -8,10 +8,7 @@
 </h2>
 
 <div id="definitions">
-
-<h2 align="center">
-  Definizioni
-</h2>
+<h2 align="center">Definizioni</h2>
 
 Questo documento <sup>"regolamento" | "regole"</sup> rappresenta
 le regole sul comportamento e la condotta degli utenti di
@@ -21,12 +18,11 @@ le regole sul comportamento e la condotta degli utenti di
 Le regole devono essere seguite da **tutti**, con **nessuna
 eccezione**, nemmeno per i membri dello Staff.
 
-Il seguente regolamento è valido fino ad eventuali modifiche e si
-applica all'intera Community.
+Il seguente regolamento è valido fino ad eventuali modifiche e
+si applica all'intera Community.
 
-<div id="quick-rules" align="center">
-
-## Regolamento base
+<div id="quick-rules">
+<h2 align="center">Regolamento base</h2>
 
 | Infrazione | Comporta |
 | ---------- | -------- |
@@ -44,11 +40,7 @@ applica all'intera Community.
 
 </div>
 
-<div id="extended-rules">
-
-<h2 align="center">
-  Regolamento esteso
-</h2>
+<div id="extended-rules"><h2 align="center">Regolamento esteso</h2>
 
 ### Rispetto per tutti
 Ogni forma di insulti, incitamenti all'odio, minacce di qualsiasi
@@ -85,11 +77,7 @@ quale un messaggio è considerato spam, per esempio:
 
 </div>
 
-<div id="restrictions">
-
-<h2 align="center">
-  Restrizioni
-</h2>
+<div id="restrictions"><h2 align="center">Restrizioni</h2>
 
 ### Informazioni sensibili
 Condividere informazioni personali di te stesso o altri, tra cui (ma non limitato a):
