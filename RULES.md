@@ -69,10 +69,10 @@ cura di limitare queste infrazioni, ma generalmente un moderatore umano
 visionerà i link per evitare i falsi positivi. Esiste un limite oltre il
 quale un messaggio è considerato spam, per esempio:
 
-<img src="https://i.imgur.com/yTuwVUe.jpg" width="40%"/><br/>
+<img src="https://i.imgur.com/yTuwVUe.jpg" width="540"/><br/>
 **Non è spam**
 
-<img src="https://i.imgur.com/dEmh0Ok.jpg" width="40%"/><br/>
+<img src="https://i.imgur.com/dEmh0Ok.jpg" width="540"/><br/>
 **È spam**
 
 </div>
