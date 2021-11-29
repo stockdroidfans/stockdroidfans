@@ -75,6 +75,12 @@ quale un messaggio è considerato spam, per esempio:
 <img src="https://i.imgur.com/dEmh0Ok.jpg" width="540"/><br/>
 **È spam**
 
+### Tag e messaggi privati
+Evita di taggare gli utenti quando non è strettamente necessario, soprattutto
+i VIP del gruppo. e.g, **non taggare Davide per i "bug"** e così via. La stessa
+cosa vale anche per i messaggi privati. Il **DM Thirsting** è bannabile in alcuni
+casi. Non tutti non hanno una vita come te. ;)
+
 </div>
 
 <div id="restrictions"><h2 align="center">Restrizioni</h2>
@@ -103,5 +109,14 @@ inviati. Questo include lo storming o l'abuso dei nostri server.
 ### Spam
 Lo spam e la pubblicità non sono permessi e i link monetizzati o
 flaggati come spam saranno automaticamente eliminati dal bot.
-Questo include la promozione attiva di chat, server, canali,
-link [joinchat](https://t.me/joinchat/).
+Se stai attivamente promuovendo un tuo canale, gruppo o contenuto,
+rientra nella definizione di spam.
+
+### Tag
+Limita il più possibile i tag agli utenti. Il bot può determinare
+il contesto di un tag ed eliminarlo se non è necessario, in base a:
+
+- **orario** a cui è stato inviato il messaggio
+- **tag precedenti** negli ultimi 30 minuti o nel messaggio in risposta
+- **contenuto del messaggio** (ad esempio, se il messaggio è essenzialmente vuoto)
+- se l'utente taggato è in **Zen Mode**
