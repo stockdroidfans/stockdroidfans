@@ -1,14 +1,26 @@
-<h1 align="center">
-  <img src="https://dslv9ilpbe7p1.cloudfront.net/Cj7cYvaXaoyQ386pQ2yIjw_store_logo_image.png" width="80"/><br/>
-  Stockdroid Fans
-</h1>
-<h2 align="center">
-  <img src="https://camo.githubusercontent.com/de4fa40cddcfcb22448cdca8e9dad69d8133ae62964a9c90ffa661afd780b94a/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3332302f6170706c652f3238352f706f6c6963652d6361722d6c696768745f31663661382e706e67" width="20"/>
-  REGOLAMENTO DELLA COMMUNITY
-</h2>
+<div id="intro" align="center">
 
-<div id="definitions">
-<h2 align="center">Definizioni</h2>
+# <img src="https://dslv9ilpbe7p1.cloudfront.net/Cj7cYvaXaoyQ386pQ2yIjw_store_logo_image.png" width="80"/> <br/> Stockdroid Fans
+## <img src="https://camo.githubusercontent.com/de4fa40cddcfcb22448cdca8e9dad69d8133ae62964a9c90ffa661afd780b94a/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3332302f6170706c652f3238352f706f6c6963652d6361722d6c696768745f31663661382e706e67" width="20"/> <br/> REGOLAMENTO DELLA COMMUNITY
+![image](https://img.shields.io/static/v1?logo=markdown&label=powered%20by&message=markdown&color=red)
+
+</div>
+
+<div id="definitions" align="center">
+
+## Definizioni
+| Termine | Significato |
+| ------- | ----------- |
+| Regolamento | L'insieme delle regole rappresentate in questo file markdown. |
+| Regole |
+| Stockdroid Fans | Il network di Stockdroid Fans, cioè tutti i gruppi, canali, bot, siti, progetti e altro affiliati con Stockdroid Fans o Stockerlato Tech FANS. |
+| Network |
+| Fanpage |
+| Community | La community ufficiale dei fan! Comprende tutti i membri di Stockdroid Fans su tutte le piattaforme disponibili, incluso il canale YouTube. |
+| membri |
+| utenti |
+| Stockdroid Fan Group |
+| Fanbase |
 
 Questo documento <sup>"regolamento" | "regole"</sup> rappresenta
 le regole sul comportamento e la condotta degli utenti di
@@ -20,6 +32,8 @@ eccezione**, nemmeno per i membri dello Staff.
 
 Il seguente regolamento è valido fino ad eventuali modifiche e
 si applica all'intera Community.
+
+</div>
 
 <div id="quick-rules">
 <h2 align="center">Regolamento base</h2>
